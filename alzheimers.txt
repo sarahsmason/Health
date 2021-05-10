@@ -1,0 +1,16 @@
+Alzhiemers Disease Analysis
+
+Performed in Power BI, data import and coding in workbook pbix file. 
+
+Shows dashboard of health insights from dataset.
+
+Related Medium article 
+located https://ai.plainenglish.io/understanding-alzheimers-disease-with-a-dashboard-c644d2b53b45?sk=6a75e367379722501f2e9466260d6d16
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Dataset from data.gov 
+located https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data
+
